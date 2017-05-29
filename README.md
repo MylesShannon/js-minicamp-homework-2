@@ -4,11 +4,11 @@
 ---
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
 		
-	* for loop
-	* && || !
-	* Array
-	* git
-	* GitHub
+	* A for loop is a block of code that continuously repeats itself while a specific condition is `true`.
+	* &&, ||, and ! are operators for boolean logic. They are used in conjunction with conditionals in statements like `while(conditional)` and `if(conditional)` to help specify certain conditions. && means 'and', || means 'or', and ! means 'not'.
+	* An Array is a list of variables linked together under one variable. Each variable in the Array can be accessed with an index corresponding to each position in the Array. Arrays are very closely related to Objects, but use an index instead of a key, amount other differences.
+	* git is a revision control system widely used to track codebase progression.
+	* GitHub is a website that hosts git repositories along side a friendly web interface.
 
 
 2. Install git.  https://git-scm.com/downloads
